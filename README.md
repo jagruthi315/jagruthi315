@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**jagruthi315/jagruthi315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Jagruthi 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Data Analyst passionate about transforming data into insights.
+
+## 🔹 About Me
+- B.Tech Data Science student (AKTU)
+- Skilled in Power BI, SQL, Python
+- Interested in dashboards, analytics & data storytelling
+- Open to internship opportunities
+
+## 🔹 Technical Skills
+- Power BI (Dashboards, DAX basics, Drill-down)
+- SQL (Joins, Aggregations, Subqueries, Window Functions)
+- Python (Pandas, NumPy, Streamlit)
+- Excel (Pivot Tables, Data Cleaning)
+
+## 🔹 Featured Projects
+- 📊 Netflix Data Analysis Dashboard
+- 🚗 Vehicle Sales Dashboard
+- 💰 Expense Tracker (Python + SQLite)
+- 🍽 Recipe Corner Database System
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/jagruthi-sachin-poondrrikaksha
